@@ -71,7 +71,6 @@ nav {
   font-weight: 400;
 }
 .bottom-nav-bar {
-  /* display: none; */
   height: 40px;
   position: absolute;
   bottom: 0px;
@@ -80,6 +79,7 @@ nav {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  display: none;
 }
 
 
